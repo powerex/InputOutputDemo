@@ -12,7 +12,7 @@ public class ReadFileBufferedStreamRead {
         char singleChar;
         while ((singleCharInt = bufferedInputStream.read()) != -1) {
             singleChar = (char) singleCharInt;
-            System.out.println(singleChar);
+            System.out.print(singleChar);
         }
     }
 }
