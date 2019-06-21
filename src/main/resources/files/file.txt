@@ -1,0 +1,6 @@
+This is first line
+Java
+Streams
+Трішки України
+Next line
+Last line
